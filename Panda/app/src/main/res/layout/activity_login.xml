@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".LoginActivity"
+    android:paddingLeft="14dp"
+    android:background="@mipmap/food1"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Panda"
+        android:textStyle="bold"
+        android:textColor="#E3B83A"
+        android:textSize="26dp"/>
+
+    <TextView
+        android:textSize="16dp"
+        android:textColor="#F38765"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Mang đến những hương vị tuyệt nhất"
+        />
+
+    <EditText
+    android:backgroundTint="@color/ic_launcher_background_book"
+    android:padding="15dp"
+    android:layout_gravity="center"
+    android:background="@drawable/edt_style"
+    android:fontFamily="serif"
+    android:layout_width="300dp"
+    android:layout_height="50dp"
+    android:text="admin"
+        android:id="@+id/edtUserName"
+
+        android:layout_marginTop="170dp"
+
+    />
+
+<!--   <EditText-->
+<!--       android:id="@+id/edtUserName"-->
+<!--       android:textColor="#DDDFC8"-->
+<!--       android:textColorHint="#DDDFC8"-->
+<!--       android:layout_marginTop="100dp"-->
+<!--       android:layout_marginLeft="30dp"-->
+<!--       android:layout_width="330dp"-->
+<!--       android:layout_height="50dp"-->
+<!--       android:hint="UserName"/>-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/edtPassWord"-->
+<!--        android:textColor="#DDDFC8"-->
+<!--        android:textColorHint="#DDDFC8"-->
+<!--       android:layout_marginTop="10dp"-->
+<!--        android:layout_marginLeft="30dp"-->
+<!--        android:layout_width="330dp"-->
+<!--        android:layout_height="50dp"-->
+<!--        android:hint="PassWord"-->
+<!--        android:inputType="textPassword"/>-->
+
+    <EditText
+
+        android:backgroundTint="@color/ic_launcher_background_book"
+        android:padding="15dp"
+        android:id="@+id/edtPassWord"
+        android:layout_width="300dp"
+        android:background="@drawable/edt_style"
+        android:layout_margin="10dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:fontFamily="serif"
+        android:text="123"
+        android:inputType="textPassword"
+
+        />
+
+
+   <Button
+       android:id="@+id/btnLogin"
+       android:layout_marginTop="10dp"
+       android:backgroundTint="#337331"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:text="Đăng nhập"/>
+
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hoặc"
+        android:layout_gravity="center"
+        android:textColor="@color/white"/>
+
+
+    <LinearLayout
+
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:background="#2970A8"
+        android:layout_gravity="center">
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="match_parent"
+        android:src="@mipmap/iconfacebook"
+        android:layout_marginLeft="10dp"/>
+
+   <TextView
+       android:textStyle="bold"
+       android:layout_gravity="center"
+       android:layout_marginLeft="38dp"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="ĐĂNG NHẬP VỚI FACEBOOK "
+       android:textColor="@color/white"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:layout_gravity="center">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:src="@mipmap/icongg"
+            android:layout_marginLeft="10dp"/>
+
+        <TextView
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_marginLeft="38dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ĐĂNG NHẬP VỚI FACEBOOK "
+            android:textColor="@color/black"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bạn chưa có tài khoản"
+            android:textColor="@color/white"
+            />
+
+        <TextView
+            android:id="@+id/txtDangKy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFE081"
+            android:text=" Đăng kí ngay "/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text=" với chúng tôi"/>
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

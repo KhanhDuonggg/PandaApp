@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/drawable/frofile.xml" value="0.1" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/activity_admin.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/activity_chitietsanpham.xml" value="0.25" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/activity_dang_ky.xml" value="0.16983695652173914" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/activity_login.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/admin_doanhthu_frag.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/admin_doimk_frag.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/admin_donhang_frag.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/admin_khachhang_frag.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/admin_loai_frag.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/admin_monan_frag.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/dialog_thongtinkh.xml" value="0.176" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/frag_home.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/frag_oder.xml" value="0.25679347826086957" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/frag_profile.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/frag_search.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/header_layout.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/item_banner.xml" value="0.25" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/item_category.xml" value="0.1" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/item_thongtinkh.xml" value="0.12537993920972645" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/layout/toolbar.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/menu/menu.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/PRO1121-du_an1/Panda/app/src/main/res/menu/menu_button_duoi.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/drawable-v24/delete.xml" value="0.1" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/activity_camera.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/activity_chi_tiet.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/activity_chitietsanpham.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/activity_firebase.xml" value="0.24427083333333333" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/activity_login.xml" value="0.12537993920972645" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/activity_them_ttactivity.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/admin_doimk_frag.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/admin_loai_frag.xml" value="0.16983695652173914" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/admin_monan_frag.xml" value="0.12537993920972645" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/dialog_capnhat_ttkh.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/dialog_doimatkhau.xml" value="0.25" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/dialog_themmon.xml" value="0.264" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/dialog_xoa_sua.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/frag_home.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/frag_oder.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/frag_profile.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/item_banner.xml" value="0.2" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/item_category.xml" value="0.25833333333333336" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/item_loai_admin.xml" value="0.21483375959079284" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/item_loai_kh.xml" value="0.536" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/item_mon_kh.xml" value="0.25" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/item_monan_admin.xml" value="0.25" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/item_sua_monan.xml" value="0.12537993920972645" />
+        <entry key="..\:/FPT Polytechnic/PRO1121-Du_an_1/Panda/app/src/main/res/layout/toolbar.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/PC/Documents/GitHub/PRO1121-du_an1/Panda/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24" />
+        <entry key="..\:/Users/PC/Documents/GitHub/PRO1121-du_an1/Panda/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24" />
+        <entry key="..\:/Users/PC/Documents/GitHub/PRO1121-du_an1/Panda/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/PC/Documents/GitHub/PRO1121-du_an1/Panda/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/PC/Documents/GitHub/PRO1121-du_an1/Panda/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24" />
+        <entry key="..\:/Users/PC/Documents/GitHub/PRO1121-du_an1/Panda/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.24" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
